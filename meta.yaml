@@ -1,0 +1,14 @@
+package:
+  name: swga
+  version: "0.4.3"
+
+build:
+  binary_relocation: false
+
+requirements:
+  build:
+    - python
+    - gcc
+  run:
+    - python
+    
